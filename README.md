@@ -303,7 +303,7 @@
   <img src="https://img.shields.io/badge/GitHub-Manas1024-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="[https://leetcode.com/Manas1024](https://leetcode.com/u/mTyhE7noes/)">
+<a href="https://leetcode.com/u/mTyhE7noes/">
   <img src="https://img.shields.io/badge/LeetCode-Manas1024-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
