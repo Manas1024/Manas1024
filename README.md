@@ -111,7 +111,7 @@
 
 ---
 
-### 🏢 AI/ML Engineer Intern — Internpe
+### 🏢 AI/ML Engineer — InternPe
 `June 2023 – July 2024`
 
 > Built and deployed classification & regression ML models for real-world business problems.
