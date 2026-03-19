@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/manas-kumar-rout">
+<a href="https://www.linkedin.com/in/manaskumarrout/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
@@ -244,7 +244,7 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/manas-kumar-rout">
+<a href="https://www.linkedin.com/in/manaskumarrout/">
   <img src="https://img.shields.io/badge/LinkedIn-manas--kumar--rout-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
