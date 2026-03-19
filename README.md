@@ -145,7 +145,7 @@
 ![SVM](https://img.shields.io/badge/SVM-Scikit--learn-F7931E?style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Manas1024/twitter-sentiment-analysis)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Manas1024/Sentiment-Analysis-on-Twitter-Data)
 
 ---
 
@@ -164,7 +164,7 @@
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-34A853?style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Manas1024/customer-churn-prediction)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Manas1024/customer-churn-analysis)
 
 ---
 
@@ -185,7 +185,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Manas1024/realtime-ecommerce-pipeline)
+[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Manas1024/Real-Time-E-Commerce-Data-Pipeline)
 
 ---
 
