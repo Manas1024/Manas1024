@@ -131,25 +131,6 @@
 
 ---
 
-### 🏠 House Price Prediction using Machine Learning
-`July 2025` · *Regression · Feature Engineering · XGBoost*
-
-> Predicted property prices using location, size & structural attributes across a real estate dataset.
-
-- 📐 Applied data preprocessing, feature engineering & outlier treatment
-- 🌲 Implemented **Linear Regression, Random Forest & XGBoost**
-- 🏆 Achieved **94% accuracy** with XGBoost, reducing **RMSE by 17%**
-- 📏 Evaluated using RMSE & R² for business-relevant reliability
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Manas1024/house-price-prediction)
-
----
-
 ### 🐦 Sentiment Analysis on Twitter Data
 `March 2025` · *NLP · Text Classification · SVM*
 
@@ -208,26 +189,6 @@
 
 ---
 
-### 🌐 Azure End-to-End Data Engineering Pipeline
-`2025` · *Cloud Data Engineering · Azure · dbt*
-
-> Built a production-grade cloud data pipeline on Microsoft Azure implementing the Medallion Architecture (Bronze → Silver → Gold).
-
-- 📥 Ingested raw data from REST APIs & CSV sources into **Azure Blob Storage (Bronze layer)**
-- 🔄 Transformed data using **Azure Data Factory** pipelines and **dbt** models (Silver layer)
-- 🏆 Served analytics-ready Gold layer data into **Azure SQL Database**
-- 📊 Built **Power BI** reports on top of the Gold layer for business stakeholders
-- 🔐 Implemented **role-based access control** and data validation checkpoints at every layer
-
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/Manas1024/azure-data-pipeline)
-
----
-
 ## 🎓 Education
 
 <div align="center">
@@ -271,14 +232,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas1024&theme=tokyo-night&hide_border=true&area=true&v=2" width="95%" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manas1024&theme=tokyonight&no-frame=true&row=1&column=7&v=2" width="95%" />
 </div>
 
 ---
