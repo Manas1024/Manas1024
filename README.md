@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Manas%20Kumar%20Rout&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Analytics%20Specialist&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Manas%20Kumar%20Rout&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Analytics%20Specialist&descAlignY=58&descSize=17&v=2" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=750&lines=👋+Hi%2C+I'm+Manas+Kumar+Rout;🚀+Data+Engineer+%7C+AI%2FML+Engineer;📊+Turning+Raw+Data+into+Real+Impact;🤖+Building+Intelligent+%26+Scalable+Systems;💡+94%25+Model+Accuracy+%7C+45%25+Pipeline+Efficiency+Gain;☕+Fuelled+by+Curiosity+%26+Coffee" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&random=false&width=750&lines=%F0%9F%91%8B+Hi%2C+I%27m+Manas+Kumar+Rout;%F0%9F%9A%80+Data+Engineer+%7C+AI%2FML+Engineer;%F0%9F%93%8A+Turning+Raw+Data+into+Real+Impact;%F0%9F%A4%96+Building+Intelligent+%26+Scalable+Systems;%F0%9F%92%A1+94%25+Model+Accuracy+%7C+45%25+Pipeline+Efficiency+Gain;%E2%98%95+Fuelled+by+Curiosity+%26+Coffee&v=2" alt="Typing SVG" />
 
 <br/>
 
@@ -260,16 +260,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Manas1024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas1024&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Manas1024&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manas1024&theme=tokyonight&hide_border=true&v=2" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manas1024&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=2" width="42%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas1024&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manas1024&theme=tokyo-night&hide_border=true&area=true&v=2" width="95%" />
 
 </div>
 
@@ -278,7 +278,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manas1024&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Manas1024&theme=tokyonight&no-frame=true&row=1&column=7&v=2" width="95%" />
 </div>
 
 ---
@@ -316,11 +316,10 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&v=2" width="70%" />
 
 <br/><br/>
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling&v=2" width="100%"/>
 
 </div>
